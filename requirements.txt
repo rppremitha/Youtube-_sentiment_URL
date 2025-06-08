@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+requests
+matplotlib
+wordcloud
+textblob
+torch
+transformers
+emoji
+scikit-learn
+plotly
+openai
+google-api-python-client
